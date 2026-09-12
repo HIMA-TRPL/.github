@@ -17,6 +17,7 @@ Politeknik Negeri Madiun
 [Struktur Organisasi](#struktur-organisasi) &nbsp;•&nbsp;
 [Repositori](#repositori) &nbsp;•&nbsp;
 [Kontribusi](#kontribusi) &nbsp;•&nbsp;
+[MPP](#MPP) &nbsp;•&nbsp;
 [Kontak](#kontak--media-sosial)
 
 </div>
