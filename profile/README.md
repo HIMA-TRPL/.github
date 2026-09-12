@@ -72,6 +72,13 @@ Anggota HIMA TRPL dan mahasiswa TRPL PNM dipersilakan untuk berkontribusi pada r
 3. Ajukan Pull Request dengan deskripsi perubahan yang jelas.
 4. Tunggu peninjauan dari pengurus atau maintainer terkait.
 
+## MPP
+> *Khusus mahasiswa baru TRPL 2026*
+
+Untuk hal-hal seputar Masa Pengenalan Prodi dapat dilihat di tautan dibawah
+
+- [Buku Ungu](https://github.com/HIMA-TRPL/GitUngu-Template)
+
 ## Kontak & Media Sosial
 
 | Kanal | Tautan |
